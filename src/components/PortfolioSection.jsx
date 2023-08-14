@@ -18,10 +18,10 @@ const PortfolioSection = () => {
             </a>
           </div>
           <div className="w-1/2 md:w-1/4">
-            <a href="https://ai-t-shirt.netlify.app/">
+            <a href="https://blade-text.vercel.app/">
               <img
                 className="rounded-lg object-cover w-full h-auto"
-                src="../../images/ai_t-shirt.png"
+                src="../../images/msgr.png"
                 alt="Image 2"
               />
             </a>

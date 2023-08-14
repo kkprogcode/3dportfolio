@@ -9,9 +9,10 @@ const galleryData = [
   { filename: "imagegen.png", link: "https://imggenclient.onrender.com/" },
   { filename: "weatherapp.png", link: "https://showweather-app.vercel.app/" },
   { filename: "Xcrypto.png", link: "https://reactcrypto.vercel.app/" },
-  { filename: "ai_t-shirt.png", link: "https://ai-t-shirt.netlify.app/" },
+  { filename: "msgr.png", link: "https://blade-text.vercel.app/" },
   { filename: "astro.png", link: "https://astro-demowebsite.netlify.app/" },
   { filename: "socialmedia.png", link: "https://socialm-app.netlify.app/" },
+  
   // Add more objects for each image
 ];
 
